@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="hello_blank_fragment">hello blank fragment</string>
+    <string name="_001">#001</string>
+    <string name="bulbasar">Bulbasar</string>
+    <string name="search_photos" />
+</resources>
